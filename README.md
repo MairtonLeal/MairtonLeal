@@ -10,8 +10,10 @@ Sou desenvolvedor Fullstack jr. com experiência na area mobile
 
  Mairton Rodrigues
  Formado em Ciência da Computação
- Atualmente trabalhando no TRE-PA - 
-  Desenvolvedor FullStack JR. (Tercerizado Presencial)
+ Atualmente Capgemini -
+ Lider e Consultor de Soluções II
+  Anteriormente no TRE-PA - 
+   Desenvolvedor FullStack JR. (Tercerizado Presencial)
  Anteriormente tralhando em Noiva usando 
   Desenvolvedor Mobile na Salve com Ionic Framework (Remoto)
 
