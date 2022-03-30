@@ -1,14 +1,14 @@
 ### Olá 👋
 
-Sou desenvolvedor Fullstack jr. com experiência na area mobile
+Sou desenvolvedor Fullstack com foco em mobile.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="top" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```
-
- Mairton Rodrigues 
+ Apresentação: 
+ Nome: Mairton Rodrigues 
  Formado em Ciência da Computação
  Desenvolvedor e Freelancer - Playstore de nome Project Spiders para Apps Android publicados
  Atualmente na Foton - Analista Desenvolvedor Mobile Hibrido - Projeto Bancário
