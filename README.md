@@ -11,7 +11,7 @@ Sou desenvolvedor Fullstack com foco em mobile.
  Nome: Mairton Rodrigues 
  Formado em Ciência da Computação
  Desenvolvedor e Freelancer - Playstore de nome Project Spiders para Apps Android publicados
- Atualmente na Foton - Analista Desenvolvedor Mobile Hibrido - Projeto Bancário
+ Atualmente na Foton - Analista Desenvolvedor Mobile Hibrido - Fabrica Prestadoras de Serviço Time Caixa
  Anteriormente - Consultor  na Artycs - Desenvolvedor Mobile Pleno
  Capgemini Consultor de Soluções II - Techlead do Projeto
  Analista SW II em TRIBUNAL REGIONAL ELEITORAL DO PARÁ - Desenvolvedor FullStack JR. (Tercerizado Presencial)
