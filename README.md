@@ -11,7 +11,8 @@ Sou Desenvolvedor Mobile.
  Nome: Mairton Rodrigues 
  Formado em Ciência da Computação
  Desenvolvedor e Freelancer - Playstore de nome Project Spiders para Apps Android publicados
- Atualmente na Empresa Foton - Analista Desenvolvedor Mobile iOs - Projetos Mobile Bancários 
+ Atualmente na Empresa SPREAD - Analista Desenvolvedor Mobile iOS Sr. - Projetos Mobile Bancários 
+ Anteriormente na Empresa Foton - Analista Desenvolvedor Mobile iOS - Projetos Mobile Bancários 
  Anteriormente na Empresa Foton - Analista Desenvolvedor Mobile Hibrido - Projetos Mobile Bancários 
  Anteriormente - Consultor  na Artycs - Desenvolvedor Mobile Pleno
  Capgemini Consultor de Soluções II - Techlead do Projeto
